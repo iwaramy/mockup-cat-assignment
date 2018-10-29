@@ -23,7 +23,7 @@ body {
   padding: 1rem;
 }
 footer {
-  background-color: dimgray;
+  background-color: #3d3d3d;
   color: white;
   text-align: center;
   position: relative;
@@ -33,12 +33,12 @@ footer {
   padding: 4rem;
 }
 header {
-  background-color: #00a3cc;
+  background-color: #5e99b4;
   color: white;
   position: relative;
 }
 ul.container {
-  background-color: lightgray;
+  background-color: #eaeaea;
   padding: 25px;
   color: black;
   width: 100%;
@@ -81,7 +81,7 @@ img.sidebar-box {
     object-fit: contain;
     }
 .color {
-  color: #00a3cc;
+  color: #5e99b4;
 }
 p.color {
   font-size: 20px;
